@@ -1,5 +1,5 @@
 import streamlit as st
-from pptx import Presentation
+from python-pptx import Presentation
 from pptx.util import Inches, Pt
 from presentobot_data import presentation_data as data
 
