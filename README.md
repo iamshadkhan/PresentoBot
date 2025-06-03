@@ -14,15 +14,6 @@
 
 ---
 
-## 📸 Live Demo
-
-Click below to try the app online (once deployed):
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-presentobot.streamlit.app)
-
-> ✨ Replace the link above with your actual deployed URL after hosting on Streamlit Cloud.
-
----
 
 ## 🛠️ Built With
 
@@ -39,10 +30,18 @@ Click below to try the app online (once deployed):
 git clone https://github.com/yourusername/presentobot.git
 cd presentobot
 
-📄 License
+### 2. Install Dependencies
+pip install -r requirements.txt
+
+### 2. Run the App
+streamlit run app.py
+
+---
+
+## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Shad Khan
 GitHub: @iamshadkhan
 Feel free to ⭐ the repo or suggest improvements!
