@@ -29,19 +29,20 @@
 ```bash
 git clone https://github.com/yourusername/presentobot.git
 cd presentobot
-
-### 2. Install Dependencies
+2. Install Dependencies
+bash
+Copy
+Edit
 pip install -r requirements.txt
-
-### 2. Run the App
+3. Run the App
+bash
+Copy
+Edit
 streamlit run app.py
-
----
-
-## 📄 License
+📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 🙋‍♂️ Author
+🙋‍♂️ Author
 Shad Khan
 GitHub: @iamshadkhan
 Feel free to ⭐ the repo or suggest improvements!
