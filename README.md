@@ -44,15 +44,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Live Demo
 
-Click the badge below to open the hosted app:
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-deployed-url.streamlit.app)
-
-> Replace the link above with your actual Streamlit app URL.
-
----
 
 ## 📄 License
 
