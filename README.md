@@ -6,19 +6,18 @@
 
 ## 🚀 Features
 
-- 📚 Topic & Sub-topic selection
-- 🧠 Auto-generated Introduction and Content Slides
-- 🎯 Well-formatted Title and Thank You slides
-- ⬇️ One-click PowerPoint (.pptx) download
-- 💻 Fully browser-based (no installation needed)
+- 📚 Topic & Sub-topic selection  
+- 🧠 Auto-generated Introduction and Content Slides  
+- 🎯 Well-formatted Title and Thank You slides  
+- ⬇️ One-click PowerPoint (.pptx) download  
+- 💻 Fully browser-based (no installation needed)  
 
 ---
 
-
 ## 🛠️ Built With
 
-- [Streamlit](https://streamlit.io/) – UI framework
-- [python-pptx](https://python-pptx.readthedocs.io/) – PowerPoint file generation
+- [Streamlit](https://streamlit.io/) – UI framework  
+- [python-pptx](https://python-pptx.readthedocs.io/) – PowerPoint file generation  
 
 ---
 
@@ -29,21 +28,41 @@
 ```bash
 git clone https://github.com/yourusername/presentobot.git
 cd presentobot
-2. Install Dependencies
-bash
-Copy
-Edit
+```
+
+### 2. Install Dependencies
+
+```bash
 pip install -r requirements.txt
-3. Run the App
-bash
-Copy
-Edit
+```
+
+### 3. Run the App
+
+```bash
 streamlit run app.py
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+```
 
-🙋‍♂️ Author
-Shad Khan
-GitHub: @iamshadkhan
+---
+
+## 📸 Live Demo
+
+Click the badge below to open the hosted app:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-deployed-url.streamlit.app)
+
+> Replace the link above with your actual Streamlit app URL.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙋‍♂️ Author
+
+**Shad Khan**  
+GitHub: [@iamshadkhan](https://github.com/iamshadkhan)  
+
 Feel free to ⭐ the repo or suggest improvements!
-
